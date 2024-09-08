@@ -1,6 +1,3 @@
-#aws lambda code for 
-#How to Make a Chatbot Using Amazon Lex and AWS Lambda (Python) | Conversational AI Part 2
-# https://youtu.be/W6T-RFei6SY
 import json
 import datetime
 import time
